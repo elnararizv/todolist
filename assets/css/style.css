@@ -1,0 +1,32 @@
+.to-do {
+    background-color: rgb(247, 245, 245);
+    box-shadow: 5px 2px 7px #dbd3d3;
+    width: 42%;
+}
+
+.inp {
+    outline: none;
+    border: 1px solid darkcyan;
+    border-radius: 6px;
+}
+
+.add-btn {
+    width: 14%;
+    background-color: rgb(1, 168, 168);
+    color: white;
+    transition: all .1s;
+}
+
+.add-btn:hover {
+    background-color: white;
+    color: black;
+    outline: 3px solid darkcyan;
+}
+
+.ul-list li {
+    list-style: none;
+}
+
+.ul-list li div {
+    width: 90%;
+}
