@@ -1,13 +1,3 @@
-// $(document).ready(function() {
-//     $("button").click(function() {
-//             $("ul").append("<li>" + $('#addList').val() + "</li>");
-//             $('#addList').val('');
-        
-//     });
-  
-
-
-
 let input = document.querySelector('.inp');
 let ul = document.querySelector('.ul-list');
 let addBtn = document.querySelector('.add-btn');
